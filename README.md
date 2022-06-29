@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey 👋, I'm Bibin Biju</h1>
 <h3 align="center">A Passionate Learner🤗</h3>
-<img align="right" alt="Coding" width="320" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611b40dfc17acee1e51d49062b0fd919493feaf5149&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611b40dfc17acee1e51d49062b0fd919493feaf5149&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibinbiju111&label=Profile%20views&color=0e75b6&style=flat" alt="bibinbiju111" /> </p>
 
