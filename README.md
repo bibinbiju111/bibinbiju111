@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bibinbiju111
 - 👀 I’m interested in Front End Web Development and Coding
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS & CSS
 
 
 
