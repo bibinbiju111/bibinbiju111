@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibinbiju111" alt="bibinbiju111" /></a> </p>
 
-- 🌱 I’m currently learning **CSS and JS**
+- 🌱 I’m currently learning **React.JS and Supabase**
 
 - 💬 Ask me about **C, C++,Java and Basics of Front End Web Dev**
 
