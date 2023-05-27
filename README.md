@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.JS and Supabase**
 
-- 💬 Ask me about **C, C++,Java and Basics of Front End Web Dev**
+- 💬 Ask me about **C, C++,Java and Front End Web Dev**
 
 - 📫 How to reach me **bibinbiju363@gmail.com**
 
